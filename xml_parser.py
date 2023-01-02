@@ -3,7 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 # custom tree class
-from tree_class import TreeNode
+from TreeNode import TreeNode
 
 
 def xml_parser(url):
